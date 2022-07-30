@@ -12,6 +12,7 @@ function List(props) {
             </div>
             <div className="list-descr">
                 {props.dis}
+                ddd
             </div>
             <Listlabel onAction={()=>{
                 console.log('parent');
