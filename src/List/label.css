@@ -1,0 +1,20 @@
+.ListlabelItem{
+    color: #fff;
+    padding:2px 5px;
+    margin:4px;
+    border-radius: 2px;
+    display: block;
+    width: fit-content;
+}
+
+.list-title {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.list-title label{
+    color: blue;
+    cursor: pointer;
+    font-size: 12px;
+}
