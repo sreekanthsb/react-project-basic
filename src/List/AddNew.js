@@ -21,6 +21,7 @@ export default class AddNew extends Component {
     return (
       <div>
         <input type="text" onChange={this.handelChange} />
+<p>hello</p>
         <button type='button' value={this.state.titleInput} onClick={this.handelClick}>add</button>
       </div>
     )
